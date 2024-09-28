@@ -1,12 +1,16 @@
+**Nota Importante: O site da Braspy está desatualizado, uma vez que a versão original (repositório) foi excluída há algum tempo. Esta é uma versão anterior, mas ainda funcional.**
+
+[Site oficial](https://braspy.neocities.org/)
+
 # Braspy
 
-**Braspy é uma biblioteca de Python que traduz automaticamente funções e métodos nativos do Python para termos em português brasileiro, tornando o aprendizado e uso da linguagem mais acessível para falantes de português. Com o Braspy, você pode programar usando termos como `imprimir` ao invés de `print`, `adicionar` ao invés de `append`, e muito mais, sem perder a funcionalidade original da linguagem.**
+**Braspy é uma biblioteca em Python que traduz automaticamente funções e métodos nativos do Python para termos em português brasileiro, tornando o aprendizado e o uso da linguagem mais acessíveis para falantes de português. Com o Braspy, é possível programar utilizando termos como `imprimir` em vez de `print`, `adicionar` em vez de `append`, entre outros, sem perder a funcionalidade original da linguagem.**
 
 ## Recursos Principais:
 - **Tradução automática de funções e métodos nativos para português brasileiro.**
 - **Suporte para as principais operações e estruturas de dados em Python (`listas`, `dicionários`, `tuplas`, etc.).**
-- **Fácil de integrar em qualquer projeto Python.**
-- **Ideal para iniciantes no mundo da programação que preferem aprender na sua língua materna.**
+- **Fácil integração em qualquer projeto Python.**
+- **Ideal para iniciantes no mundo da programação que preferem aprender em sua língua materna.**
 
 ## Exemplo de Uso:
 ```python
@@ -14,12 +18,3 @@ imprimir("Olá, mundo!")
 lista = [1, 2, 3]
 adicionar(lista, 4)
 imprimir(lista)  # Saída: [1, 2, 3, 4]
-```
-
-## Como Funciona:
-
-**O Braspy utiliza um dicionário de traduções internas que substitui dinamicamente funções e métodos do Python por suas versões em português, permitindo que você programe naturalmente no seu idioma, sem alterar o comportamento da linguagem.**
-
-**Instalação:**
-
-**Para instalar o Braspy, basta clonar este repositório e adicionar ao seu projeto Python.**
